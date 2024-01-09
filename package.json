@@ -1,0 +1,22 @@
+{
+  "name": "manoj-react",
+  "version": "1.0.0",
+  "description": "This is Manoj-React By Manoj",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crmanodev/React.git"
+  },
+  "author": "Manoj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crmanodev/React/issues"
+  },
+  "homepage": "https://github.com/crmanodev/React#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
